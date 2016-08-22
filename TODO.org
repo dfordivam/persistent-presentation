@@ -1,0 +1,15 @@
+List of tasks to gain better understanding of persistent
+
+For this set of tasks download the database from the below link.
+ Chinook: https://chinookdatabase.codeplex.com
+ https://chinookdatabase.codeplex.com/wikipage?title=Chinook_Schema&referringTitle=Documentation
+
+ - Queries
+   - Find top 10 artists based on number of albums.
+   - Find 10 albums with more than 1 genre.
+   - Find top 3 artists based on the following criterion
+     The album with purchases from more number of countries is more popular.
+
+ - Manipulation
+   - Split playlists with >1hr playback into multiple playlists.
+   - Change MediaTypeId to [(MediaTypeId, Bytes)], ie allow multiple media types.
